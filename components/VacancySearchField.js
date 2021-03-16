@@ -1,6 +1,6 @@
 export default function VacancySearchField(){
     return(
-        <div className=" flex justify-between w-1/2 mt-5">
+        <div className=" flex max-w-screen-lg mt-5">
   <div className="w-full mr-3 p-5 ">
     <div className="flex justify-between mb-3">
       <div>
